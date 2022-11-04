@@ -23,9 +23,13 @@ Or install it yourself as:
 After installing of this gem write in your ruby program:
 
 require 'haid'
+
 Haid.html_gen()
+
 <<-HTML
-  *** Your html-structure here ***
+
+  * Your html-structure here *
+
 HTML 
 
 ## Development
