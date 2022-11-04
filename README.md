@@ -28,7 +28,7 @@ Haid.html_gen()
 
 <<-HTML
 
-  *Your html-structure here
+  *Your html-structure here*
 
 HTML 
 
