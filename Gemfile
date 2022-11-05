@@ -1,9 +1,9 @@
-# frozen_string_literal: true
-
 source "https://rubygems.org"
 
 # Specify your gem's dependencies in haid.gemspec
 gemspec
+
+gem "sanitize", "~> 6.0.0"
 
 gem "rake", "~> 13.0"
 
